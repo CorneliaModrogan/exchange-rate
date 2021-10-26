@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExchangeRate.App/1.0.0": {
+        "dependencies": {
+          "ExchangeRate.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ExchangeRate.App.dll": {}
+        }
+      },
+      "ExchangeRate.Domain/1.0.0": {
+        "runtime": {
+          "ExchangeRate.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExchangeRate.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExchangeRate.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

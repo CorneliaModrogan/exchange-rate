@@ -1,0 +1,15 @@
+D:\work\Waters\OpenExchangeRateService\bin\Debug\netcoreapp3.1\OpenExchangeRateProvider.deps.json
+D:\work\Waters\OpenExchangeRateService\bin\Debug\netcoreapp3.1\OpenExchangeRateProvider.dll
+D:\work\Waters\OpenExchangeRateService\bin\Debug\netcoreapp3.1\OpenExchangeRateProvider.pdb
+D:\work\Waters\OpenExchangeRateService\obj\Debug\netcoreapp3.1\OpenExchangeRateProvider.csproj.AssemblyReference.cache
+D:\work\Waters\OpenExchangeRateService\obj\Debug\netcoreapp3.1\OpenExchangeRateProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Waters\OpenExchangeRateService\obj\Debug\netcoreapp3.1\OpenExchangeRateProvider.AssemblyInfoInputs.cache
+D:\work\Waters\OpenExchangeRateService\obj\Debug\netcoreapp3.1\OpenExchangeRateProvider.AssemblyInfo.cs
+D:\work\Waters\OpenExchangeRateService\obj\Debug\netcoreapp3.1\OpenExchangeRateProvider.csproj.CoreCompileInputs.cache
+D:\work\Waters\OpenExchangeRateService\obj\Debug\netcoreapp3.1\OpenExchangeRateProvider.csproj.CopyComplete
+D:\work\Waters\OpenExchangeRateService\obj\Debug\netcoreapp3.1\OpenExchangeRateProvider.dll
+D:\work\Waters\OpenExchangeRateService\obj\Debug\netcoreapp3.1\OpenExchangeRateProvider.pdb
+D:\work\Waters\OpenExchangeRateService\bin\Debug\netcoreapp3.1\ExchangeRate.Domain.dll
+D:\work\Waters\OpenExchangeRateService\bin\Debug\netcoreapp3.1\ExchangeRate.Domain.pdb
+D:\work\Waters\OpenExchangeRateService\bin\Debug\netcoreapp3.1\ExchangeRate.App.dll
+D:\work\Waters\OpenExchangeRateService\bin\Debug\netcoreapp3.1\ExchangeRate.App.pdb

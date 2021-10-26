@@ -1,0 +1,13 @@
+D:\work\Waters\ExchangeLayer.Application\bin\Debug\netcoreapp3.1\ExchangeRate.App.deps.json
+D:\work\Waters\ExchangeLayer.Application\bin\Debug\netcoreapp3.1\ExchangeRate.App.dll
+D:\work\Waters\ExchangeLayer.Application\bin\Debug\netcoreapp3.1\ExchangeRate.App.pdb
+D:\work\Waters\ExchangeLayer.Application\obj\Debug\netcoreapp3.1\ExchangeRate.App.csproj.AssemblyReference.cache
+D:\work\Waters\ExchangeLayer.Application\obj\Debug\netcoreapp3.1\ExchangeRate.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Waters\ExchangeLayer.Application\obj\Debug\netcoreapp3.1\ExchangeRate.App.AssemblyInfoInputs.cache
+D:\work\Waters\ExchangeLayer.Application\obj\Debug\netcoreapp3.1\ExchangeRate.App.AssemblyInfo.cs
+D:\work\Waters\ExchangeLayer.Application\obj\Debug\netcoreapp3.1\ExchangeRate.App.csproj.CoreCompileInputs.cache
+D:\work\Waters\ExchangeLayer.Application\obj\Debug\netcoreapp3.1\ExchangeRate.App.csproj.CopyComplete
+D:\work\Waters\ExchangeLayer.Application\obj\Debug\netcoreapp3.1\ExchangeRate.App.dll
+D:\work\Waters\ExchangeLayer.Application\obj\Debug\netcoreapp3.1\ExchangeRate.App.pdb
+D:\work\Waters\ExchangeLayer.Application\bin\Debug\netcoreapp3.1\ExchangeRate.Domain.dll
+D:\work\Waters\ExchangeLayer.Application\bin\Debug\netcoreapp3.1\ExchangeRate.Domain.pdb

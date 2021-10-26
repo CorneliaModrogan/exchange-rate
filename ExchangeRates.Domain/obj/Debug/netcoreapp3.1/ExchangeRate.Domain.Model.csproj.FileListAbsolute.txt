@@ -1,0 +1,9 @@
+D:\work\Waters\ExchangeRates.Domain\obj\Debug\netcoreapp3.1\ExchangeRate.Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Waters\ExchangeRates.Domain\obj\Debug\netcoreapp3.1\ExchangeRate.Domain.Model.AssemblyInfoInputs.cache
+D:\work\Waters\ExchangeRates.Domain\obj\Debug\netcoreapp3.1\ExchangeRate.Domain.Model.AssemblyInfo.cs
+D:\work\Waters\ExchangeRates.Domain\obj\Debug\netcoreapp3.1\ExchangeRate.Domain.Model.csproj.CoreCompileInputs.cache
+D:\work\Waters\ExchangeRates.Domain\bin\Debug\netcoreapp3.1\ExchangeRate.Domain.Model.deps.json
+D:\work\Waters\ExchangeRates.Domain\bin\Debug\netcoreapp3.1\ExchangeRate.Domain.Model.dll
+D:\work\Waters\ExchangeRates.Domain\bin\Debug\netcoreapp3.1\ExchangeRate.Domain.Model.pdb
+D:\work\Waters\ExchangeRates.Domain\obj\Debug\netcoreapp3.1\ExchangeRate.Domain.Model.dll
+D:\work\Waters\ExchangeRates.Domain\obj\Debug\netcoreapp3.1\ExchangeRate.Domain.Model.pdb

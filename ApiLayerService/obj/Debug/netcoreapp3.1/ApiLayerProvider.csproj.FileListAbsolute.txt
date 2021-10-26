@@ -1,0 +1,15 @@
+D:\work\Waters\ApiLayerService\bin\Debug\netcoreapp3.1\ApiLayerProvider.deps.json
+D:\work\Waters\ApiLayerService\bin\Debug\netcoreapp3.1\ApiLayerProvider.dll
+D:\work\Waters\ApiLayerService\bin\Debug\netcoreapp3.1\ApiLayerProvider.pdb
+D:\work\Waters\ApiLayerService\obj\Debug\netcoreapp3.1\ApiLayerProvider.csproj.AssemblyReference.cache
+D:\work\Waters\ApiLayerService\obj\Debug\netcoreapp3.1\ApiLayerProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Waters\ApiLayerService\obj\Debug\netcoreapp3.1\ApiLayerProvider.AssemblyInfoInputs.cache
+D:\work\Waters\ApiLayerService\obj\Debug\netcoreapp3.1\ApiLayerProvider.AssemblyInfo.cs
+D:\work\Waters\ApiLayerService\obj\Debug\netcoreapp3.1\ApiLayerProvider.csproj.CoreCompileInputs.cache
+D:\work\Waters\ApiLayerService\obj\Debug\netcoreapp3.1\ApiLayerProvider.csproj.CopyComplete
+D:\work\Waters\ApiLayerService\obj\Debug\netcoreapp3.1\ApiLayerProvider.dll
+D:\work\Waters\ApiLayerService\obj\Debug\netcoreapp3.1\ApiLayerProvider.pdb
+D:\work\Waters\ApiLayerService\bin\Debug\netcoreapp3.1\ExchangeRate.Domain.dll
+D:\work\Waters\ApiLayerService\bin\Debug\netcoreapp3.1\ExchangeRate.Domain.pdb
+D:\work\Waters\ApiLayerService\bin\Debug\netcoreapp3.1\ExchangeRate.App.dll
+D:\work\Waters\ApiLayerService\bin\Debug\netcoreapp3.1\ExchangeRate.App.pdb

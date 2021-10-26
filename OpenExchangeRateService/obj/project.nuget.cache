@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNhdxtSJ+rIcny6yDMl/Wb3iZQr3Z6nopWK7FoznUZB5TkSyRaEToF3BlFjbM2bN+rc4c2KlZXgIr0Kx+eB3jA==",
+  "success": true,
+  "projectFilePath": "D:\\work\\Waters\\OpenExchangeRateService\\OpenExchangeRateProvider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cornelia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

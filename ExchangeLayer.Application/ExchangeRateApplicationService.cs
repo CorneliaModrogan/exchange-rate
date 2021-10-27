@@ -1,4 +1,5 @@
-﻿using ExchangeRate.Domain.Model;
+﻿using ExchangeRate.Domain.Service;
+using ExchangeRate.Domain.Model;
 using ExchangeRate.Domain.Service;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -7,12 +8,12 @@ namespace ExchangeRate.App
 {
     public class ExchangeRateApplicationService : IExchangeRateApplicationService
     {
-        private ExchangeRateService _exchangeRateService;
+        private IExchangeRateService _exchangeRateService;
         private IEnumerable<IExchangeRateRepository> _exchangeRatesProviders;
 
-        public ExchangeRateApplicationService(IEnumerable<IExchangeRateRepository> exchangeRatesProviders)
+        public ExchangeRateApplicationService(IExchangeRateService exchangeRateService, IEnumerable<IExchangeRateRepository> exchangeRatesProviders)
         {
-            _exchangeRateService = new ExchangeRateService();
+            _exchangeRateService = exchangeRateService;
             _exchangeRatesProviders = exchangeRatesProviders;
         }
 

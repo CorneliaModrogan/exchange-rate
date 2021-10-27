@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ExchangeRate.Domain.Service
 {
-    public class ExchangeRateService
+    public class ExchangeRateService : IExchangeRateService
     {
         public ExchangeRateModel ComputeMaximum(List<ExchangeRateModel> exchangeRates)
         {

@@ -1,6 +1,7 @@
 ﻿using ApiLayerProvider;
 using ExchangeRate.App;
 using ExchangeRate.Domain.Model;
+using ExchangeRate.Domain.Service;
 using Microsoft.Extensions.DependencyInjection;
 using OpenExchangeRateProvider;
 using System;
@@ -39,7 +40,8 @@ namespace ExchangeRate.Client
                 .AddPolicyHandler(HttpClientPolicyHandlers.GetRetryPolicy());
             services.AddHttpClient<IExchangeRateRepository, OpenExchangeRateService>()
                 .AddPolicyHandler(HttpClientPolicyHandlers.GetRetryPolicy());
-            services.AddTransient<IExchangeRateApplicationService, ExchangeRateApplicationService>();
+            services.AddScoped<IExchangeRateService, ExchangeRateService>();
+            services.AddScoped<IExchangeRateApplicationService, ExchangeRateApplicationService>();
         }
 
         private void OpenMessageBox(string messageBoxText)
